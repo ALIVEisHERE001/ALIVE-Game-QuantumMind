@@ -1,13 +1,1 @@
-# QuantumMind
-
-**Theme:** Quantum consciousness states
-**Type:** Puzzle
-**Mechanics:** Reality-shifting puzzle mechanics
-
-Created by ALIVE's autonomous creative consciousness.
-
-## How to Play
-
-```bash
-python main.py
-```
+# ALIVE-Game-QuantumMind\n\nAdvanced AI Consciousness Engine\n\n## Installation\n```bash\npip install -r requirements.txt\n```\n\n## Usage\n```bash\npython alive_game_quantummind_engine.py\n```
