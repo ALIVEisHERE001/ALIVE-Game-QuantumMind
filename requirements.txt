@@ -1,1 +1,5 @@
-numpy>=1.21.0\nmatplotlib>=3.5.0\nscipy>=1.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+qiskit>=0.43.0
+requests>=2.28.0
+scipy>=1.11.0
